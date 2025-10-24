@@ -1,5 +1,5 @@
 """PDF processing utilities for extracting text from PDF files."""
-import PyPDF2
+import pypdf as PyPDF2
 from io import BytesIO
 
 
